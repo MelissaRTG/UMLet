@@ -16,7 +16,7 @@
 
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>http://github.com/umlet/umlet/issues</url>
+		<url>http://github.com/umlet/umlet/issues</url> 
 	</issueManagement>
 
 	<scm>
